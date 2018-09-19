@@ -1,4 +1,4 @@
-# Case_Study
+# Case_Study in both Python and C++
 #### by Jiadong Chen
 ## tests made
 input bfbfbfbfbfpppppppppp
